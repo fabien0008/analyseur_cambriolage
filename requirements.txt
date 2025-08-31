@@ -1,0 +1,8 @@
+requests
+urllib3<2
+geopandas
+pandas
+geopy
+shapely
+textual
+rich
